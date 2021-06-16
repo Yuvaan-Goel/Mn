@@ -1,0 +1,80 @@
+body
+{
+    font-family: 'Source Code Pro', monospace;
+    background-color: lightblue;
+}
+
+.header_div
+{
+    background: white;
+    color: red;
+}
+
+#logo
+{
+    height: 100px;
+    width: 100px;
+}
+
+.main
+{
+    background: pink;
+    margin-top: 15px;
+    border: solid 4px lightblue;
+    padding: 10px;
+}
+
+#camera, #result
+{
+    height: 300px;
+    width: 300px;
+    border: dashed 2px black;
+    box-shadow: 5px 5px 20px blueviolet;
+}
+
+.main label
+{
+    background: lightblue;
+    width: 300px;
+    padding: 10px;
+    margin-bottom: 10px;
+    box-shadow: 5px 5px 20px white;
+    border: solid 1px;
+}
+
+.main button
+{
+    width: 300px;
+    font-size: 15px;
+    border: solid 2px;
+    box-shadow: 5px 5px 20px white;
+}
+
+.footer_div img
+{
+    width: 70px;
+}
+
+.footer_div 
+{
+    margin-bottom: 50px;
+}
+
+.footer_div h4
+{
+    background-color: white;
+    border-radius: 10px;
+    padding: 5px;
+    box-shadow: 5px 5px 20px lightblue;
+}
+
+.copyright
+{
+    text-align: center;
+    position: fixed;
+    color: green;
+    width: 100%;
+    background-color: white;
+    line-height: 3;
+    bottom: 0;
+}
